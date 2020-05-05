@@ -1,7 +1,8 @@
 import pandas as pd
 import smtplib
 
-SenderAddress = "<Email Address of sender>"
+SenderAddress = "chuymedina96@gmail.com"
+# Use app password
 password = "password of sender"
 
 e = pd.read_excel("Email.xlsx")

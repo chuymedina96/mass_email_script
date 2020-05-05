@@ -1,9 +1,6 @@
 # Bulk-Email-Sender
 A Python script to send bulk or mass emails to email list in an excel file
 
-Video Based Tutorial:
-https://youtu.be/qHyE4YAFIv0
-
 Steps to execution
 
 1. Make sure you have python installed on your system. For mac, go here: https://www.python.org/downloads/mac-osx/
